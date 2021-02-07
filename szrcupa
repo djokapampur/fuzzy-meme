@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link href="mystyle.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>Szr Čupa</title>
+    <style>
+        p {
+            font-size: 50px;
+        }
+    </style>
+</head>
+<body>
+<header>
+    <h1>SZR ČUPA VALJEVO</h1>
+</header>
+<nav>
+    <ul>
+        <li>
+            Početna strana
+        </li>
+        <li>
+            Usluge
+        </li>
+        <li>
+            O nama
+        </li>
+        <li>
+            Kontakt
+        </li>
+    </ul>
+</nav>
+<section>
+<p>
+    Ovde neki tekst
+</p>
+
+    
+</section>
+</body>
+</html>
